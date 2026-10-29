@@ -1,0 +1,10 @@
+*.tmp
+*.bak
+*.log
+*.$$$
+*.~*
+__temp_*
+*.workspace
+*.userpreferences
+!*.PZM
+!*.csv
